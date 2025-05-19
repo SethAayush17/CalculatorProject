@@ -1,1 +1,13 @@
+Calculator Project - Source Code:
 
+This folder contains the complete source code for the Scientific Calculator application and  is intended for developers 
+who want to examine, modify, or build the project from source.
+
+
+
+Repository Contents:
+
+mainwindow.h/cpp: Main application window implementation
+main.cpp: Creates the windows and the widgets contained within it
+calculator.pro: Qt project file
+ui_mainwindow.ui: User interface design file
