@@ -1,1 +1,21 @@
+Important: Application Setup Instructions
+---------------------------------------------
 
+The complete application files were too large to upload as a single folder, so they've been split into 4
+separate folders in this repository. You must combine these folders before running the application.
+
+Setup Steps:
+Download all folders from this repository (Folder1, Folder2, Folder3, and Folder4)
+
+Merge the folders:
+
+Create a new empty folder on your computer (e.g., "Calculator-Complete")
+Copy all contents from all 4 folders into this new folder
+Make sure to preserve the folder structure when copying
+If asked to replace files, select "Replace" (the files should be identical)
+
+
+Run the application:
+
+The executable application is located in Folder1
+After merging all folders, navigate to this folder and run the application file (CalculatorApp.exe or similar)
