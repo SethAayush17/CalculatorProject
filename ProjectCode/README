@@ -9,5 +9,5 @@ Repository Contents:
 
 mainwindow.h/cpp: Main application window implementation
 main.cpp: Creates the windows and the widgets contained within it
-calculator.pro: Qt project file
-ui_mainwindow.ui: User interface design file
+Calculator.pro: Qt project file
+mainwindow.ui: User interface design file
